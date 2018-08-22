@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     url: 'https://jackyzhen.com',
     title: 'Jacky Zhen',
-    subtitle: '\"I must not fear - Fear is the mind-killer.\"',
+    subtitle: 'Software developer in Auckland, NZ',
     menu: [
       {
         label: 'About',
@@ -10,7 +10,7 @@ module.exports = {
       },
       {
         label: 'Ramblings',
-        path: '/'
+        path: '/ramblings/'
       }
     ],
     author: {

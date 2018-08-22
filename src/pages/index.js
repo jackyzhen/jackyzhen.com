@@ -32,7 +32,6 @@ export const pageQuery = graphql`
       siteMetadata {
         title
         subtitle
-        copyright
         menu {
           label
           path
@@ -41,6 +40,7 @@ export const pageQuery = graphql`
           name
           email
           github
+          linkedin
         }
       }
     }

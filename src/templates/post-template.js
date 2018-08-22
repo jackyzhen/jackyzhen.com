@@ -1,13 +1,13 @@
-import React from 'react';
-import Helmet from 'react-helmet';
-import PostTemplateDetails from '../components/PostTemplateDetails';
+import React from 'react'
+import Helmet from 'react-helmet'
+import PostTemplateDetails from '../components/PostTemplateDetails'
 
 class PostTemplate extends React.Component {
   render() {
-    const { title, subtitle } = this.props.data.site.siteMetadata;
-    const post = this.props.data.markdownRemark;
-    const { title: postTitle, description: postDescription } = post.frontmatter;
-    const description = postDescription !== null ? postDescription : subtitle;
+    const { title, subtitle } = this.props.data.site.siteMetadata
+    const post = this.props.data.markdownRemark
+    const { title: postTitle, description: postDescription } = post.frontmatter
+    const description = postDescription !== null ? postDescription : subtitle
 
     return (
       <div>
@@ -17,11 +17,11 @@ class PostTemplate extends React.Component {
         </Helmet>
         <PostTemplateDetails {...this.props} />
       </div>
-    );
+    )
   }
 }
 
-export default PostTemplate;
+export default PostTemplate
 
 export const pageQuery = graphql`
   query PostBySlug($slug: String!) {
@@ -29,7 +29,6 @@ export const pageQuery = graphql`
       siteMetadata {
         title
         subtitle
-        copyright
         url
       }
     }
@@ -47,4 +46,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`;
+`

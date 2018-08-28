@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Jacky Zhen]]></title><description><![CDATA[A Software Developer living in Auckland, NZ]]></description><link>https://jackyzhen.com</link><generator>RSS for Node</generator><lastBuildDate>Tue, 28 Aug 2018 11:01:47 GMT</lastBuildDate><item><title><![CDATA[In the Beginning There Was Darkness]]></title><description><![CDATA[This is the first post in what will hopefully be many more to come. Here, I formally declare the motivation and goals behind this blog and formulate a structure for future content.]]></description><link>https://jackyzhen.com/posts/in-the-beginning-there-was-darkness/</link><guid isPermaLink="false">https://jackyzhen.com/posts/in-the-beginning-there-was-darkness/</guid><pubDate>Tue, 28 Aug 2018 21:48:58 GMT</pubDate><content:encoded>&lt;p&gt;Hey there, welcome to this tiny little corner of the world wide netscape I call my website.&lt;/p&gt;
+&lt;p&gt;This is your typical first post of the typical personal blog of a typical software developer.
+Why am I doing this blogging thing? Thats a very boring and typical question to ask myself.&lt;/p&gt;
+&lt;h2&gt;The Why, in Bullet Points&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;I want to be better at communicating via written form. I communicate a lot with code, not a lot with words.&lt;/li&gt;
+&lt;li&gt;I want to write more. I haven’t written anything meaningful since university.&lt;/li&gt;
+&lt;li&gt;I’m always learning new tech. A good way to learn is to try to teach. A great way to learn is to try to teach by writing for a hypothetical audience.&lt;/li&gt;
+&lt;li&gt;Everybody else is doing it. Like with bitcoin, I fear missing out.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/thinking-man-statue-4719fd92cf3102107f6e0c72be1e5755-473e3.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIFAwT/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//aAAwDAQACEAMQAAABVualQSjcQ//EABsQAAMAAgMAAAAAAAAAAAAAAAECAwQREhMi/9oACAEBAAEFAkYLKcOwFdEDZj4TJPC3/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAIBERP/2gAIAQMBAT8BWmgzP//EABcRAQEBAQAAAAAAAAAAAAAAAAIAERP/2gAIAQIBAT8BehXW/8QAGhAAAwEAAwAAAAAAAAAAAAAAAAERIUFRYf/aAAgBAQAGPwLFvJbCE7J6NI//xAAbEAEAAwEAAwAAAAAAAAAAAAABABEhMUFRcf/aAAgBAQABPyGjivygLq+ZGb0lQ1pU1BRp5ikSneT/2gAMAwEAAgADAAAAEJP/AP/EABcRAQADAAAAAAAAAAAAAAAAAAEAETH/2gAIAQMBAT8QNdMiL2f/xAAYEQEAAwEAAAAAAAAAAAAAAAABABEhMf/aAAgBAgEBPxBXB7B1pP/EAB4QAQEAAQMFAAAAAAAAAAAAAAERACExUUFhcbHh/9oACAEBAAE/ENWqlRzpvlyKPJeMQkaSnZmEQCUSlwS0V1Z1nrI2KS7FPmf/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;thinking-man-statue.jpg&quot;
+        title=&quot;&quot;
+        src=&quot;/static/thinking-man-statue-4719fd92cf3102107f6e0c72be1e5755-473e3.jpg&quot;
+        srcset=&quot;/static/thinking-man-statue-4719fd92cf3102107f6e0c72be1e5755-70611.jpg 240w,
+/static/thinking-man-statue-4719fd92cf3102107f6e0c72be1e5755-473e3.jpg 360w&quot;
+        sizes=&quot;(max-width: 360px) 100vw, 360px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Google image says this is a statue of Plato in thought. I like to think he is facepalming at the sight of yet another blog by another software guy.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Why do they call them bullet points? What did they call them before guns were invented? Arrow dents?&lt;/p&gt;
+&lt;p&gt;Are you still reading? Why?&lt;/p&gt;
+&lt;h2&gt;The What, in Arrow Dents&lt;/h2&gt;
+&lt;p&gt;In the future you can expect from this blog:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tech stuff. Yeah, thats super vague.&lt;/li&gt;
+&lt;li&gt;Satire and bad comedy.&lt;/li&gt;
+&lt;li&gt;Uninformed thoughts and onions.&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Stolen&lt;/del&gt; Referenced and reccomended material.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/leonardo-vitruvian-man-b-0cb3ceae967c83e16a33e15a5cc878ae-1caba.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 400px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.49999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAddarjcygP8A/8QAFhABAQEAAAAAAAAAAAAAAAAAAQAg/9oACAEBAAEFAiFz/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFhAAAwAAAAAAAAAAAAAAAAAAACAh/9oACAEBAAY/Air/AP/EABsQAQEAAgMBAAAAAAAAAAAAAAEAEUEhMYGR/9oACAEBAAE/IU45k9TyVzv5aib/2gAMAwEAAgADAAAAEF/v/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8Qqv/EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAgEBPxBGy//EABoQAAICAwAAAAAAAAAAAAAAAAABEXEhMUH/2gAIAQEAAT8QWwOagUOE+SkQbKVM7o2VGx//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;leonardo-vitruvian-man-b.jpeg&quot;
+        title=&quot;&quot;
+        src=&quot;/static/leonardo-vitruvian-man-b-0cb3ceae967c83e16a33e15a5cc878ae-1caba.jpeg&quot;
+        srcset=&quot;/static/leonardo-vitruvian-man-b-0cb3ceae967c83e16a33e15a5cc878ae-38c71.jpeg 240w,
+/static/leonardo-vitruvian-man-b-0cb3ceae967c83e16a33e15a5cc878ae-1caba.jpeg 400w&quot;
+        sizes=&quot;(max-width: 400px) 100vw, 400px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The Renaissance Man, a depiction of the Full-Stack Developer during the renaissance period of 1600’s europe. The extra arms allows for efficient multitasking between frontend and backend.&lt;/em&gt;&lt;/p&gt;</content:encoded></item></channel></rss>

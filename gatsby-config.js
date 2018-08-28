@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     url: 'https://jackyzhen.com',
-    title: 'Jacky Zhen',
+    title: 'jackyzhen.com',
     subtitle: 'A Software Developer living in Auckland, NZ',
     menu: [
       {

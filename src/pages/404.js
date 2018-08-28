@@ -9,10 +9,10 @@ class NotFoundRoute extends React.Component {
         <div className="content">
           <div className="content__inner">
             <div className="page">
-              <h1 className="page__title">NOT FOUND</h1>
+              <h1 className="page__title">FOUR OH FOUR</h1>
               <div className="page__body">
                 <p>
-                  You just hit a route that doesn&#39;t exist... the sadness.
+                  Uhhhhhh this is probably my fault... but theres nothing here.
                 </p>
               </div>
             </div>
@@ -40,6 +40,7 @@ export const pageQuery = graphql`
           email
           github
           linkedin
+          rss
         }
       }
     }

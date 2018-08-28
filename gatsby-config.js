@@ -2,22 +2,23 @@ module.exports = {
   siteMetadata: {
     url: 'https://jackyzhen.com',
     title: 'Jacky Zhen',
-    subtitle: 'Software developer in Auckland, NZ',
+    subtitle: 'A Software Developer living in Auckland, NZ',
     menu: [
+      {
+        label: 'Ramblings',
+        path: '/'
+      },
       {
         label: 'About',
         path: '/about/'
-      },
-      {
-        label: 'Ramblings',
-        path: '/ramblings/'
       }
     ],
     author: {
       name: 'Jacky Zhen',
       email: 'me@jackyzhen.com',
       github: 'jackyzhen',
-      linkedin: 'jacky-shunjie-zhen-5b735042'
+      linkedin: 'jacky-shunjie-zhen-5b735042',
+      rss: 'https://jackyzhen.com/rss.xml',
     }
   },
   plugins: [

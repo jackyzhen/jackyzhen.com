@@ -4,12 +4,13 @@ import Link from 'gatsby-link'
 import Menu from '../Menu'
 import Links from '../Links'
 import profilePic from '../../pages/photo.jpg'
+import quotes from '../../assets/quotes/frankHerbert.json'
 import './style.scss'
 
 class Sidebar extends React.Component {
   render() {
     const { location } = this.props
-    const { author, subtitle, menu } = this.props.data.site.siteMetadata
+    const { author, menu } = this.props.data.site.siteMetadata
     const isHomePage = get(location, 'pathname', '/') === '/'
 
     const authorBlock = (
@@ -36,7 +37,9 @@ class Sidebar extends React.Component {
             </Link>
           </h2>
         )}
-        <p className="sidebar__author-subtitle">{subtitle}</p>
+        <p className="sidebar__author-subtitle">
+          {quotes[Math.floor(Math.random() * quotes.length)]}
+        </p>
       </div>
     )
 

@@ -11,6 +11,10 @@ module.exports = {
       {
         label: 'About',
         path: '/about/'
+      },
+      {
+        label: 'Resume',
+        path: '/resume.pdf'
       }
     ],
     author: {

@@ -1,0 +1,2 @@
+webpackJsonp([30875753179511],{381:function(e,a){e.exports={data:{site:{siteMetadata:{title:"jackyzhen.com",subtitle:"A Software Developer living in Auckland, NZ",menu:[{label:"Ramblings",path:"/"},{label:"About",path:"/about/"},{label:"Resume",path:"/resume.pdf"}],author:{name:"Jacky Zhen",email:"me@jackyzhen.com",github:"jackyzhen",linkedin:"jacky-shunjie-zhen-5b735042",rss:"https://jackyzhen.com/rss.xml"}}},allMarkdownRemark:{group:[{fieldValue:"General",totalCount:2}]}},pathContext:{}}}});
+//# sourceMappingURL=path---categories-351ec4066cf23bae83bd.js.map
